@@ -15,7 +15,7 @@
 
       <!-- Nombre principal -->
       <h1
-        class="text-4xl md:text-7xl transform scale-y-110 font-bold text-[#333] mb-12 md:mt-0 mt-52"
+        class="text-4xl md:text-7xl transform scale-y-110 font-bold text-[#333] mb-12 md:mt-0 mt-20"
       >
         MILEER LEÓN
       </h1>
