@@ -1,13 +1,13 @@
 <template>
   <section
-    class="relative w-full min-h-screen flex flex-col mt-8 justify-center items-center gap-10 bg-white overflow-hidden font-[Barlow]"
+    class="relative w-full min-h-screen flex flex-col items-center gap-10 bg-white overflow-hidden font-[Barlow]"
   >
     <!-- Fondo con animación sutil -->
     <div class="absolute inset-0 bg-gradient-to-br from-gray-50 to-white animate-pulse-slow opacity-50"></div>
 
     <!-- Título principal -->
     <h2 class="text-3xl md:text-5xl font-extrabold text-gray-800 z-10 tracking-tight text-center">
-      Mis Proyectos en producción
+      Desarrollos en GitHub
     </h2>
 
     <!-- Contenedor de tarjetas -->
@@ -71,12 +71,12 @@ import { ref } from 'vue'
 // Lista de proyectos
 const projects = ref([
   {
-    title: 'Canhoto Premium',
-    tech: 'Laravel • Tailwind • JS • MySQL',
+    title: 'Aurora Hotel',
+    tech: 'React • Tailwind ',
     description:
-      'Tienda online con acceso a subscripción, vinos exclusivos, facturación, inventario, panel administrador, responsive.',
-    image: '/images/1111.PNG',
-    link: 'https://canhotopremium.com/'
+      'Pagina web Hotel Aurora, diseño moderno y minimalista.',
+    image: '/images/33.PNG',
+    link: 'https://hotel-aurora-front.vercel.app/'
   },
   {
     title: 'Canhoto Black',
