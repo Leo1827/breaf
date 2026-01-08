@@ -7,7 +7,16 @@ useHead({
     {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap'
-    }
+    },
+    {
+      rel: 'icon',
+      type: 'image/png',
+      href: 'https://img.icons8.com/ios_filled/1200/circled-m.jpg'
+    },
+    {
+      rel: 'shortcut icon',
+      href: 'https://img.icons8.com/ios_filled/1200/circled-m.jpg'
+    },
   ],
   meta: [
     { name: 'description', content: 'Mileer león is an developer, designer and  based in Ibagué, Tolima Colombia.' },

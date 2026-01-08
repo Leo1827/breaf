@@ -4,7 +4,7 @@
             v-for="(card, index) in cards"
             :key="index"
             :class="['card-float', card.animationClass]"
-            class="md:w-32 md:h-40 w-22 h-28 rounded-2xl overflow-visible relative transform transition-all duration-500 hover:scale-105 hover:z-50"
+            class="md:w-32 md:h-40 w-18 h-28 rounded-2xl overflow-visible relative transform transition-all duration-500 hover:scale-105 hover:z-50"
             :style="{
             backgroundColor: card.bg,
             marginLeft: index === 0 ? '0' : '-80px', /* negativo para solaparlas */
@@ -32,6 +32,16 @@
         },
         {
             img: 'https://pngimg.com/d/php_PNG30.png',
+            bg: '#fff',
+            animationClass: 'card-float-down'
+        },
+        {
+            img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtgVVwCpgvFkVrnWlkBn6INQ5bAYkjXOiAQ&s',
+            bg: '#fff',
+            animationClass: 'card-float-left'
+        },
+        {
+            img: 'https://miro.medium.com/1*NJSv6DGoKTloI8d8im98zg.png',
             bg: '#fff',
             animationClass: 'card-float-down'
         },
