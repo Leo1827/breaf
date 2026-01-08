@@ -1,16 +1,12 @@
 <template>
   <section
-    class="relative w-full min-h-screen flex flex-col items-center gap-12
-           bg-white overflow-hidden font-[Barlow]"
-  >
+    class="relative w-full min-h-screen flex flex-col items-center gap-12 overflow-hidden font-[Barlow]" >
     <!-- Fondo -->
-    <div class="absolute inset-0 bg-gradient-to-br from-gray-50 to-white opacity-60"></div>
+    <div class="absolute inset-0 bg-gradient-to-br from-gray-100 to-white opacity-10"></div>
 
     <!-- Título -->
     <h2
-      class="relative z-10 text-3xl md:text-5xl font-extrabold
-             text-gray-800 tracking-tight text-center"
-    >
+      class="relative z-10 mt-8 text-3xl md:text-5xl font-extrabold tracking-tight text-center" >
       Desarrollos en GitHub
     </h2>
 

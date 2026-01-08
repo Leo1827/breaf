@@ -1,11 +1,11 @@
 <template>
   <header
-    class="min-h-screen font-[Barlow] flex flex-col items-center justify-center text-center bg-white relative overflow-hidden"
+    class="min-h-screen font-[Barlow] flex flex-col items-center justify-center text-center relative overflow-hidden"
   >
     <div class="absolute top-8">
       <!-- Ubicación y correo -->
       <div
-        class="text-xs md:text-sm font-bold text-gray-800 top-1 tracking-wide mb-1"
+        class="text-xs md:text-sm font-bold  top-1 tracking-wide mb-1"
       >
         IBAGUÉ, COLOMBIA
       </div>
@@ -15,7 +15,7 @@
 
       <!-- Nombre principal -->
       <h1
-        class="text-4xl md:text-7xl transform scale-y-110 font-bold text-[#333]  md:mt-14 mt-20"
+        class="text-4xl md:text-7xl transform scale-y-110 font-bold md:mt-14 mt-20"
       >
         MILEER LEÓN
       </h1>
@@ -25,7 +25,7 @@
 
     <!-- Subtítulo -->
     <h2
-      class="text-4xl md:text-9xl font-extrabold text-gray-300 mt-16 mb-4"
+      class="text-4xl md:text-9xl font-extrabold text-gray-400 mt-16 mb-4"
     >
       DESARROLLADOR
     </h2>

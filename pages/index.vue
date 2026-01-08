@@ -4,6 +4,7 @@
     <ProjectFloating />
     <ProjectFloatingVercel />
     <Footer />
+    <ThemeToggle />
   </div>
 </template>
 
@@ -12,4 +13,5 @@ import Header from '@/components/Header.vue'
 import ProjectFloating from '@/components/ProjectFloating.vue'
 import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
 import Footer from '@/components/Footer.vue'
+import ThemeToggle from '@/components/ThemeToggle.vue'
 </script>

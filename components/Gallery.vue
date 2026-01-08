@@ -36,14 +36,14 @@
             animationClass: 'card-float-down'
         },
         {
-            img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtgVVwCpgvFkVrnWlkBn6INQ5bAYkjXOiAQ&s',
-            bg: '#fff',
-            animationClass: 'card-float-left'
-        },
-        {
             img: 'https://miro.medium.com/1*NJSv6DGoKTloI8d8im98zg.png',
             bg: '#fff',
             animationClass: 'card-float-down'
+        },
+        {
+            img: 'https://nuxt.com/assets/design-kit/icon-green.png',
+            bg: '#fff',
+            animationClass: 'card-float-left'
         },
         {
             img: 'https://cdn-icons-png.flaticon.com/512/919/919828.png',

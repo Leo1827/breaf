@@ -1,12 +1,11 @@
 <template>
   <section
-    class="relative w-full min-h-screen flex flex-col mt-8 md:pb-0 pb-10 justify-center items-center gap-10 bg-white overflow-hidden font-[Barlow]"
+    class="relative w-full min-h-screen flex flex-col mt-8 md:pb-0 pb-10 justify-center items-center gap-10 overflow-hidden font-[Barlow]"
   >
-    <!-- Fondo con animación sutil -->
-    <div class="absolute inset-0 bg-gradient-to-br from-gray-50 to-white animate-pulse-slow opacity-50"></div>
+    
 
     <!-- Título principal -->
-    <h2 class="text-3xl md:text-5xl font-extrabold text-gray-800 z-10 tracking-tight text-center ">
+    <h2 class="text-3xl md:text-5xl font-extrabold z-10 tracking-tight text-center ">
       Proyectos en producción
     </h2>
 
