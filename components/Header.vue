@@ -40,15 +40,6 @@
       </p>
     </div>
 
-    <!-- Ícono flotante superior derecho -->
-    <div class="absolute top-4 right-4">
-      <img src="" alt="Logo" class="w-6 h-6 md:w-8 md:h-8 rounded-full shadow-md" />
-    </div>
-
-    <!-- Ícono flotante inferior derecho -->
-    <div class="absolute bottom-4 right-4">
-      <img src="" alt="Palette" class="w-6 h-6 md:w-8 md:h-8" />
-    </div>
   </header>
 </template>
 
