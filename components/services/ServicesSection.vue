@@ -59,17 +59,17 @@ const menu = [
   {
     key: 'illustration',
     label: 'Digital Illustration',
-    width: 'w-25 sm:w-52 md:w-56',
+    width: 'w-28 sm:w-52 md:w-56',
   },
   {
     key: 'computer',
     label: 'Computer Maintenance',
-    width: 'w-25 sm:w-56 md:w-60',
+    width: 'w-28 sm:w-56 md:w-60',
   },
   {
     key: 'office',
     label: 'Office & PowerPoint',
-    width: 'w-25 sm:w-48 md:w-52',
+    width: 'w-28 sm:w-48 md:w-52',
   },
 ]
 
