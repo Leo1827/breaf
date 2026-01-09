@@ -3,6 +3,7 @@
     <Header />
     <ProjectFloating />
     <ProjectFloatingVercel />
+    <ServicesSection />
     <Footer />
     <ThemeToggle />
   </div>
@@ -12,6 +13,7 @@
 import Header from '@/components/Header.vue'
 import ProjectFloating from '@/components/ProjectFloating.vue'
 import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
+import ServicesSection from '@/components/services/ServicesSection.vue'
 import Footer from '@/components/Footer.vue'
 import ThemeToggle from '@/components/ThemeToggle.vue'
 </script>

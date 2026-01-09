@@ -29,7 +29,6 @@
 <script setup>
 import { ref } from 'vue'
 
-// ⚠️ IMPORTANTE: importar el componente
 import CardProject from '@/components/projects/CardProject.vue'
 
 const openLink = (url) => {
