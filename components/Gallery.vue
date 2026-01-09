@@ -38,12 +38,12 @@
         {
             img: 'https://miro.medium.com/1*NJSv6DGoKTloI8d8im98zg.png',
             bg: '#fff',
-            animationClass: 'card-float-down'
+            animationClass: 'card-float-left'
         },
         {
             img: 'https://nuxt.com/assets/design-kit/icon-green.png',
             bg: '#fff',
-            animationClass: 'card-float-left'
+            animationClass: 'card-float-down'
         },
         {
             img: 'https://cdn-icons-png.flaticon.com/512/919/919828.png',

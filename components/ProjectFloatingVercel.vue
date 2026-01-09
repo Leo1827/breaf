@@ -1,6 +1,6 @@
 <template>
   <section
-    class="relative w-full min-h-screen flex flex-col items-center gap-12 overflow-hidden font-[Barlow]" >
+    class="relative w-full min-h-screen flex flex-col items-center py-10 gap-12 overflow-hidden font-[Barlow]" >
     <!-- Fondo -->
     <div class="absolute inset-0 bg-gradient-to-br from-gray-100 to-white opacity-10"></div>
 
