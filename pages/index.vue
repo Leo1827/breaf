@@ -1,21 +1,19 @@
 <template>
   <div class="min-h-screen flex flex-col">
-    <SocialNetwork />
-    <SocialNetworkPhone />
     <Header />
     <ProjectFloating />
     <ProjectFloatingVercel />
     <ServicesSection />
     <ContactForm />
     <ScrollTop />
+    <VisitCounter />
     <Footer />
     <ThemeToggle />
   </div>
 </template>
 
 <script setup>
-  import SocialNetwork from '@/components/SocialNetwork.vue'
-  import SocialNetworkPhone from '@/components/SocialNetworkPhone.vue'
+  import VisitCounter from '@/components/VisitCounter.vue'
   import Header from '@/components/Header.vue'
   import ProjectFloating from '@/components/ProjectFloating.vue'
   import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
