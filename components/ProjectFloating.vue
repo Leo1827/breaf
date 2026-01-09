@@ -2,7 +2,6 @@
   <section
     class="relative w-full min-h-screen flex flex-col mt-8 md:pb-0 pb-10 justify-center items-center gap-10 overflow-hidden font-[Barlow]"
   >
-    
 
     <!-- Título principal -->
     <h2 class="text-3xl md:text-5xl font-extrabold z-10 tracking-tight text-center ">
