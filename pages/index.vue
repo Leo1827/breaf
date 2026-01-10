@@ -6,14 +6,12 @@
     <ServicesSection />
     <ContactForm />
     <ScrollTop />
-    <VisitCounter />
     <Footer />
     <ThemeToggle />
   </div>
 </template>
 
 <script setup>
-  import VisitCounter from '@/components/VisitCounter.vue'
   import Header from '@/components/Header.vue'
   import ProjectFloating from '@/components/ProjectFloating.vue'
   import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
