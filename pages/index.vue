@@ -3,7 +3,7 @@
     <Header />
     <ProjectFloating />
     <!-- <ProjectFloatingVercel /> -->
-    <ServicesSection />
+    <!-- <ServicesSection /> -->
     <!-- <ContactForm /> -->
     <ScrollTop />
     <Footer />
@@ -15,7 +15,7 @@
   import Header from '@/components/Header.vue'
   import ProjectFloating from '@/components/ProjectFloating.vue'
   // import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
-  import ServicesSection from '@/components/services/ServicesSection.vue'
+  // import ServicesSection from '@/components/services/ServicesSection.vue'
   // import ContactForm from '@/components/ContactForm.vue'
   import ScrollTop from '@/components/ScrollTop.vue'
   import Footer from '@/components/Footer.vue'
