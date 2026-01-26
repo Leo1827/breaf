@@ -2,7 +2,7 @@
   <div class="min-h-screen flex flex-col">
     <Header />
     <ProjectFloating />
-    <ProjectFloatingVercel />
+    <!-- <ProjectFloatingVercel /> -->
     <ServicesSection />
     <!-- <ContactForm /> -->
     <ScrollTop />
@@ -14,7 +14,7 @@
 <script setup>
   import Header from '@/components/Header.vue'
   import ProjectFloating from '@/components/ProjectFloating.vue'
-  import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
+  // import ProjectFloatingVercel from '@/components/ProjectFloatingVercel.vue'
   import ServicesSection from '@/components/services/ServicesSection.vue'
   // import ContactForm from '@/components/ContactForm.vue'
   import ScrollTop from '@/components/ScrollTop.vue'
