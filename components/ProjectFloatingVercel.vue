@@ -37,6 +37,13 @@ const openLink = (url) => {
 
 const projects = ref([
   {
+    title: 'NexaFlow',
+    tech: 'Nuxt JS • Tailwind',
+    description: 'Landing page, SaaS para startups, diseño minimalista.',
+    image: '/images/nexa.PNG',
+    link: 'https://landing-page-saa-s.vercel.app/'
+  },
+  {
     title: 'Aurora Hotel',
     tech: 'React JS • Tailwind',
     description: 'Página web hotelera con diseño moderno y minimalista.',
